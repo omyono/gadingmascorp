@@ -1,1 +1,2 @@
 # gadingmascorp
+menambahkan data baru
